@@ -106,8 +106,8 @@ UMD是AMD和CommonJS的糅合
 大部分时候我们谈的“工程化”其实只是“工具化”。
 我们利用工具，可以在项目构建部署上，发挥很大作用。
 ### 工具 ##
-- 构建工具 gulp 
-- 静态分析工具 webpack
+- 构建工具 [gulp](http://www.gulpjs.com.cn/) 
+- 静态分析工具 [webpack](http://webpack.github.io/)
 
 
 ### 总结
